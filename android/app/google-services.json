@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73213720553",
+    "project_id": "jewelcart-reactnative",
+    "storage_bucket": "jewelcart-reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73213720553:android:a7a5e5837f09c6bc8bbd78",
+        "android_client_info": {
+          "package_name": "com.rncligooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73213720553-a01d25tes541a3cvn53pk8cksri5qrna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rncligooglelogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "73213720553-ht4jofst709fvrq1ep055utj8s4rpbgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8-fwT1ImWFmUF_RysBAou-SikY2hrEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73213720553-ht4jofst709fvrq1ep055utj8s4rpbgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
